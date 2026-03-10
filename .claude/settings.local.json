@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright",
+      "Bash(npx vitest:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
